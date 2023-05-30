@@ -1,3 +1,9 @@
+I started with a fork of https://github.com/mat3u/comfoair-esp32 base on MQTT. Then I choose to switch to EspHome and fork the parent repo : https://github.com/vekexasia/comfoair-esp32
+
+As I can not fork two repository, I reimport my old code here and do a new fork on https://github.com/hcouplet/comfoair-esp32
+
+
+
 This is another update based on olimex ESP32-EVB board :
 
 https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/open-source-hardware
