@@ -1,3 +1,9 @@
+I started with a fork of https://github.com/mat3u/comfoair-esp32 base on MQTT.
+Then I choose to switch to EspHome and fork the parent repo : https://github.com/vekexasia/comfoair-esp32
+
+As I can not fork two repository, I reimport my old code here and do a new fork on https://github.com/hcouplet/comfoair-esp32
+
+
 # Comfoair Q 350 MQTT bridge
 
 This software script let you use a ESP32 + CAN Transceiver to interact with the Comfoair Q 350 unit.
